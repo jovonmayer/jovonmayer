@@ -1,3 +1,1 @@
--  Hello, I’m @jovonmayer, AKA Johanna.
-- I'm currently studying to go to college for electrical engineering and eventually become an ETO, so you likely won't find many programming projects from me these days, but I have worked on a handful of projects in the past. 
-- You can reach me at jovonmayer@gmail.com, and I'll respond as soon as I can.
+
